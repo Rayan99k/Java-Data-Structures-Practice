@@ -2,6 +2,8 @@
 //Name: Rayan Alkayal
 //Student ID: 40051210
 
+//Program that takes X input and generates X unique time stamps in hh:mm:ss
+
 import java.util.*;
 
 public class Question6
