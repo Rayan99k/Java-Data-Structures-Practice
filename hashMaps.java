@@ -2,6 +2,8 @@
 //Name: Rayan Alkayal
 //Student ID: 40051210
 
+//Program that uses HashMaps to return a numerical score for a given letter grade
+
 import java.util.*;
 
 public class Question3
