@@ -2,7 +2,7 @@
 //Name: Rayan Alkayal
 //Student ID: 40051210
 
-//Program that demonstrates indrectSort
+//Program that demonstrates indirectSort
 
 import java.util.*;
 
