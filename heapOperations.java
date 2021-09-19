@@ -2,6 +2,8 @@
 //Name: Rayan Alkayal
 //Student ID: 40051210
 
+//Program that creates heap of size X inputs and performs PriorityQueue operations (max, min, deleteMax, deleteMin) along with sorting
+
 import java.util.*;
 
 public class Question1
