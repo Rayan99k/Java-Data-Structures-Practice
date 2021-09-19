@@ -2,6 +2,8 @@
 //Name: Rayan Alkayal
 //Student ID: 40051210
 
+//Program that demonstrates selection sort
+
 import java.util.*;
 
 public class Question2
