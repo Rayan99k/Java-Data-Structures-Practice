@@ -2,6 +2,8 @@
 //Name: Rayan Alkayal
 //Student ID: 40051210
 
+//This program takes X integers and sorts them in descending order of even numbers, followed by a descending order of odd numbers
+
 import java.util.*;
 
 public class Question1
