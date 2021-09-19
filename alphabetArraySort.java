@@ -2,6 +2,8 @@
 //Name: Rayan Alkayal
 //Student ID: 40051210
 
+//Program that sorts an array of strings by alphabetical order
+
 import java.util.*;
 
 public class Question4
